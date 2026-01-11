@@ -1,0 +1,21 @@
+Date,Menu_Item,Quantity_Prepared_kg,Quantity_Wasted_kg,Day_Type,Feedback
+1/1/2026,Rice,50,12,Weekday,Too much
+1/2/2026,Biryani,40,5,Weekend,Liked
+1/3/2026,Sambar,30,10,Exam Day,Too spicy
+1/4/2026,Curd Rice,35,8,Weekday,Cold
+1/5/2026,Chapati,45,15,Weekday,Dry
+1/6/2026,Fried Rice,40,6,Weekend,Liked
+1/7/2026,Dal,32,9,Weekday,Watery
+1/8/2026,Veg Curry,38,11,Weekday,Too oily
+1/9/2026,Chicken Curry,42,4,Weekend,Very good
+1/10/2026,Upma,28,12,Weekday,Not tasty
+1/11/2026,Pulao,36,7,Weekend,Good
+1/12/2026,Idli,30,5,Weekday,Soft
+1/13/2026,Dosa,34,6,Weekday,Crispy
+1/14/2026,Rajma,33,10,Weekday,Too salty
+1/15/2026,Khichdi,29,9,Exam Day,Bland
+1/16/2026,Paneer Curry,40,6,Weekend,Liked
+1/17/2026,Lemon Rice,31,11,Weekday,Too sour
+1/18/2026,Sambar Rice,37,8,Weekday,Average
+1/19/2026,Veg Biryani,39,7,Weekend,Good
+1/20/2026,Curd Rice,34,13,Weekday,Too cold
